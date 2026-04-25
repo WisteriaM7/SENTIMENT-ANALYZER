@@ -39,8 +39,8 @@ sentiment-analyzer-mistral/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analyzer-mistral.git
-cd sentiment-analyzer-mistral
+git clone https://github.com/WisteriaM7/SENTIMENT-ANALYZER.git
+cd SENTIMENT-ANALYZER
 ```
 
 ### 2. Create and Activate a Virtual Environment
