@@ -1,7 +1,7 @@
 # 🎭 Sentiment Analyzer (Mistral)
 
 An AI-powered text sentiment classification app using a **locally hosted Mistral model** via Ollama, with a FastAPI backend and a Streamlit frontend.
-
+![SENTIMENT ANALYZER](https://github.com/WisteriaM7/SENTIMENT-ANALYZER/blob/main/Screenshot%202026-04-25%20203005.png)
 ---
 
 ## 🧠 Tech Stack
